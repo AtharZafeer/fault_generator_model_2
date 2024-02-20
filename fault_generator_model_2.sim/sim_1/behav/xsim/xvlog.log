@@ -1,12 +1,4 @@
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/azafeer/Desktop/test/fault_generator_model_2/lfsr.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module lfsr
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module lfsr
-WARNING: [VRFC 10-3609] overwriting previous definition of module 'lfsr' [../../../../lfsr.sv:23]
-WARNING: [VRFC 10-8497] literal value 'h80000bc6 truncated to fit in 31 bits [../../../../params.sv:90]
-INFO: [VRFC 10-311] analyzing module tb_lfsr
-WARNING: [VRFC 10-8497] literal value 'hAA truncated to fit in 7 bits [/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv:55]
-WARNING: [VRFC 10-8497] literal value 'hAA truncated to fit in 7 bits [/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv:60]
-WARNING: [VRFC 10-8497] literal value 'hAA truncated to fit in 7 bits [/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv:65]
-WARNING: [VRFC 10-8497] literal value 'hAA truncated to fit in 7 bits [/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv:70]
-WARNING: [VRFC 10-8497] literal value 'hAB truncated to fit in 7 bits [/home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.srcs/sim_1/imports/fault_generator_model_2/tb_lfsr.sv:85]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/azafeer/Desktop/test/fault-generator-master/fg_counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fg_counter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/azafeer/Desktop/test/fault-generator-master/tb_fg_counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fg_counter

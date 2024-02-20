@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../" \
+"tb_fg_counter_func_synth.v" \
+
+sv xil_defaultlib  --include "../../../../../" \
+"../../../../../../fault-generator-master/tb_fg_counter.sv" \
+
+# Do not sort compile order
+nosort

@@ -7,4 +7,4 @@
 # Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
 #
 
-vivado -log lfsr.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source lfsr.tcl
+vivado -log fg_counter.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source fg_counter.tcl

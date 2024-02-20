@@ -3,12 +3,11 @@
 # SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
 # IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
 # SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
-# Start of session at: Tue Feb 20 04:02:31 2024
-# Process ID: 1190990
+# Start of session at: Tue Feb 20 04:24:49 2024
+# Process ID: 1207234
 # Current directory: /home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.runs/impl_1
-# Command line: vivado -log lfsr.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lfsr.tcl -notrace
-# Log file: /home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.runs/impl_1/lfsr.vdi
+# Command line: vivado -log fg_counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fg_counter.tcl -notrace
+# Log file: /home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.runs/impl_1/fg_counter.vdi
 # Journal file: /home/azafeer/Desktop/test/fault_generator_model_2/fault_generator_model_2.runs/impl_1/vivado.jou
-# Running On: compute, OS: Linux, CPU Frequency: 1200.000 MHz, CPU Physical cores: 23, Host memory: 135058 MB
+# Running On: compute, OS: Linux, CPU Frequency: 2800.000 MHz, CPU Physical cores: 24, Host memory: 135058 MB
 #-----------------------------------------------------------
-source lfsr.tcl -notrace
